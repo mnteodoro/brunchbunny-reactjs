@@ -69,7 +69,7 @@ const Food = () => {
         </div>
                            
         <div>
-        <p className='pt-20 text-center text-3xl'>Feast <span className='font-bold'>Deli</span></p>
+        <p className='pt-20 text-center text-3xl'>Brunch <span className='font-bold'>Bunny</span></p>
         <p className='text-center font-light'>Designed by <span className='font-semibold'>Mark Teodoro</span></p>
         </div>
         
